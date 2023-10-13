@@ -1,4 +1,4 @@
-# Python Weather Fetcher
+# Weather Fetcher
 
 A Python script that fetches the current weather information for a given city using the OpenWeatherMap API.
 
@@ -7,7 +7,7 @@ A Python script that fetches the current weather information for a given city us
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/python-weather-fetcher.git
+   git clone https://github.com/abdullahguch/weather-fetcher.git
    ```
 
 2. Install dependencies:
